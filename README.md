@@ -1,6 +1,3 @@
-Certainly! Below is an example README for your npm package "emotion-analyzer". Feel free to customize it further based on your project structure, features, and specific instructions.
-
-````markdown
 # emotion-analyzer
 
 Real-time Emoji Analyzer for sentiment analysis in text.
@@ -16,7 +13,6 @@ Install the package using npm:
 ```bash
 npm install emotion-analyzer
 ```
-````
 
 ## Usage
 
